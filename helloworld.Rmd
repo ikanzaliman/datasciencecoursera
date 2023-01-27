@@ -1,7 +1,8 @@
 ---
 title: "Helloworld"
-output: word_document
-date: "2023-01-27"
+output:
+  word_document: default
+  html_notebook: default
 ---
 
 ## This is a markdown file
